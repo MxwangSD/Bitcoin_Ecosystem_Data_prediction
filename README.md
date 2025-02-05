@@ -1,4 +1,4 @@
-#Bitcoin Ordinals
+# Bitcoin Ordinals
 ## dataset
 
 - Bitcoin_pre_dataset_v4_day.csv：datasets with one-day time interval
