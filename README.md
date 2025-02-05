@@ -1,4 +1,4 @@
-# Bitcoin Ordinals
+# Bitcoin Ordinals: Bitcoin Price and Transaction Fee Rate Predictions
 ## dataset
 
 - Bitcoin_pre_dataset_v4_day.csv：datasets with one-day time interval
